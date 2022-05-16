@@ -1,4 +1,47 @@
-#Ordinare una pizza
-Tu non hai fame?!
-Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta! Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la stessa: una classica prosciutto e funghi. La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
-Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta!
+# Ordinare una pizza
+
+- SE ho fame
+  - Mi reco in cucina
+  - Mi dirigo verso il frigorifero con la bava alla bocca
+  - Prendo il menù della mia pizzeria di fiducia attaccato con il magnete
+  - Ho voglia di prosciutto e funghi ma sfoglio comunque il menu
+  - Scelgo comunque la prosciutto e funghi
+  - Vado all'ultima pagina del menù
+  - Digito il numero di telefono della pizzeria sul mio cellulare
+  - Provo a chiamare
+    - SE la pizzeria risponde e i tempi di consegna sono brevi
+      - Chiedo una prosciutto e funghi
+      - Comunico il mio indirizzo di casa e nominativo
+      - Chiudo la chiamata
+      - Preparo i contanti
+      - Attendo il delivery
+    - ALTRIMENTI
+      - SE ho molta fame o i tempi di consegna sono lunghi
+        - Cerco un'altra pizzeria su google
+        - Digito il numero di telefono della pizzeria sul mio cellulare
+        - Provo a chiamare
+          - SE la pizzeria risponde
+            - Chiedo una prosciutto e funghi
+            - Comunico il mio indirizzo di casa e nominativo
+            - Chiudo la chiamata
+            - Preparo i contanti
+            - Attendo il delivery
+      - ALTRIMENTI
+        - Attendo qualche minuto
+        - Provo a richiamare il mio locale di fiducia
+  - Sento il citofono suonare
+  - Mi reco verso la porta e la apro
+  - Pago l'ordine e prendo la pizza
+  - Chiudo la porta
+  - Mi reco in cucina
+  - Mi dirigo verso il frigo e lo apro
+  - Prendo la mia bibita preferita
+  - Chiudo il frigo
+  - Mi siedo a tavola
+    - SE la pizza non è tagliata
+      - Prendo il coltello e la taglio
+  - Mangio la pizza
+    - SE non riesco a finirla
+      - Mi ricordo di metterla in frigo
+      - Avvolgo la pizza rimanente nella stagnola
+      - La metto in frigo
